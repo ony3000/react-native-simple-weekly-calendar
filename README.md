@@ -4,14 +4,11 @@ A React Native component specialized for weekly calendars.
 
 ## Installation
 
-
 ```sh
 npm install react-native-simple-weekly-calendar
 ```
 
-
 ## Usage
-
 
 ```js
 import { multiply } from 'react-native-simple-weekly-calendar';
@@ -20,7 +17,6 @@ import { multiply } from 'react-native-simple-weekly-calendar';
 
 const result = await multiply(3, 7);
 ```
-
 
 ## Contributing
 
