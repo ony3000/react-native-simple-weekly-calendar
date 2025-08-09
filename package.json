@@ -41,6 +41,11 @@
     "release": "release-it --only-version"
   },
   "keywords": [
+    "react",
+    "native",
+    "simple",
+    "weekly",
+    "calendar",
     "react-native",
     "ios",
     "android"
